@@ -17,7 +17,6 @@ PRODUCT_COPY_FILES := \
 	    vendor/lge/w7/proprietary/vendor/lib/libtime_genoff.so:obj/lib/libtime_genoff.so
 
 PRODUCT_COPY_FILES += \
-    vendor/lge/w7/proprietary/app/TimeService.apk:system/app/TimeService.apk \
     vendor/lge/w7/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/lge/w7/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
     vendor/lge/w7/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
